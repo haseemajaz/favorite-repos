@@ -21,8 +21,7 @@ ETTools a C++ programme can mannage Millions of emails: https://github.com/Med-E
 
 Send up to 5 million emails: https://github.com/SenderTech/Unlimitedsender
 
-obs-urlsource: https://github.com/locaal-ai/obs-urlsource
-
+Roy Shilkrot: https://github.com/royshil?tab=repositories
 
 
 
