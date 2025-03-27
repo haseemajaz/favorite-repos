@@ -17,6 +17,15 @@ Datagroove 2:  https://github.com/datagroove2/Files
 
 thyself-pymail:  https://github.com/zulf73/thyself-pymail
 
+ETTools a C++ programme can mannage Millions of emails: https://github.com/Med-ELOMARI/ETTools- 
+
+Send up to 5 million emails: https://github.com/SenderTech/Unlimitedsender
+
+obs-urlsource: https://github.com/locaal-ai/obs-urlsource
+
+
+
+
 
 
 
