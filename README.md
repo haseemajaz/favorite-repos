@@ -23,7 +23,7 @@ Send up to 5 million emails: https://github.com/SenderTech/Unlimitedsender
 
 Roy Shilkrot: https://github.com/royshil?tab=repositories
 
-
+GoogleDorking.md: https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06
 
 
 
